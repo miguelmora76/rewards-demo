@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/.settings/
+/target/
+/.classpath
+/.factorypath
+/.project
+settings.xml
+.idea/
+**/*.iml
+**/db
+/.java-version
+*~
+velocity.log
+bootstrap.properties
